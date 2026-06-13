@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nihar%20Toor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=55&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nihar%20Toor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20Python&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+Into+Business+Strategy;SQL+%7C+Python+%7C+Power+BI+%7C+Microsoft+Fabric;Building+End-to-End+Analytics+Pipelines;Open+to+Data+%26+Business+Analyst+Roles" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-I'm **Nihar Toor**, a **Data Analyst** skilled in **SQL, Python, Power BI, and Microsoft Fabric**, with hands-on experience building **end-to-end analytics solutions**. My engineering background gives me a strong foundation in **structured problem-solving, relational database design, and data pipeline architecture**, combined with a deep focus on **transforming raw data into business intelligence**.
+I'm **Nihar Toor**, a **Data Analyst** skilled in **SQL, Python, Power BI, Excel and Microsoft Fabric**, with hands-on experience building **end-to-end analytics solutions**. My engineering background gives me a strong foundation in **structured problem-solving, relational database design, and data pipeline architecture**, combined with a deep focus on **transforming raw data into business intelligence**.
 
 I specialize in **Exploratory Data Analysis (EDA), data modeling, and dashboard development**, applying a **product engineering mindset** to every project — designing pipelines that are clean, scalable, and built to drive real decisions. I'm also actively expanding into **AI/ML and Generative AI**, leveraging tools like Claude, ChatGPT, and Microsoft Copilot for AI-assisted analysis, prompt engineering, and workflow automation.
 
